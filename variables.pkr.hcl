@@ -19,7 +19,7 @@ variable "ami" {
 variable "access_key" {
 
   type = string
-  default     = "AKIA56ODWEEZIASDASFGVI5BZX73"
+  default     = ""
   description = "Access key of the terraform IAM user"
 
 }
@@ -27,7 +27,7 @@ variable "access_key" {
 variable "secret_key" {
 
   type = string
-  default     = "jDB0dVB/Nm7CBfdYRcXB6ADASDCXSDASDSA678uDRfPu5aFPnX9TgNV+M5"
+  default     = ""
   description = "Secret key of the terraform IAM user"
 
 }
