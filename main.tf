@@ -19,14 +19,14 @@ variable "region" {
 
 variable "access_key" {
 
-  default     = "AKIA56ODWEEZII5BZX73"
+  default     = "asdasfdfsdrw42353463556456456546"
   description = "Access key of the terraform IAM user"
 
 }
 
 variable "secret_key" {
 
-  default     = "jDB0dVB/Nm7CBfdYRcXB6DRfPu5aFPnX9TgNV+M5"
+  default     = "123432334534645gdfgdvsvsdfdsfsd"
   description = "Secret key of the terraform IAM user"
 
 }
